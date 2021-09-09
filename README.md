@@ -1,2 +1,2 @@
 # DankSnapFilter
-Et lågsus filter til din snapchat, der ikke får dig til at ligne et pik hovede
+Et lågsus filter til din snapchat, der ikke får din næste til at se sjov ud
